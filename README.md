@@ -11,11 +11,11 @@ I'm in my senior year studying Computer Science and a Mobile Software Engineer a
 
 - See other places where I am usually active
 
- - My PlayStore Apps can be viewed [here](https://play.google.com/store/apps/developer?id=Nikkhil+Singh)
- - My website [www.nikhil.eu](nikhil.eu)
- - My [Lindedin](https://www.linkedin.com/in/nikhil-singh7/)
- - My Instagram (https://www.instagram.com/nikcodes/)
+ - 💻 My PlayStore Apps can be viewed [here](https://play.google.com/store/apps/developer?id=Nikkhil+Singh)
+ - 🔭 My website [www.nikhil.eu](nikhil.eu)
+ - 🧑‍My [Lindedin](https://www.linkedin.com/in/nikhil-singh7/)
+ - ⚡ My Instagram (https://www.instagram.com/nikcodes/)
  
- I have over 100 projects on github and would love for you to contribute to any of them. Please reach out if you would like to collaborate on something awesome!
+👋 I have over 100 projects on github and would love for you to contribute to any of them. Please reach out if you would like to collaborate on something awesome!
  
 
