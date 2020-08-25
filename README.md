@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm in my senior year studying Computer Science and a Mobile Software Engineer at [Accucia](https://www.accucia.com/) in Pune, IN 🌆
+I'm 21 and in my senior year studying Computer Science and a Mobile Software Engineer at [Accucia](https://www.accucia.com/) in Pune, IN 🌆
 
 - 🔭 I’m currently working on Dart and Flutter to build complex mobile applications on a variety of domains.
 - ☕ I’m currently also leading the mobile dev team at [QuickFits](http://quickfits.app/) a LA based fashion startup.
