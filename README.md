@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=nikhilmufc7&show_icons=true)
+
 I'm 21 and in my senior year studying Computer Science and a Mobile Software Engineer at [Accucia](https://www.accucia.com/) in Pune, IN 🌆
 
 - 🔭 I’m currently working on Dart and Flutter to build complex mobile applications on a variety of domains.
