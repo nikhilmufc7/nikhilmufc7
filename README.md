@@ -14,7 +14,7 @@ I'm 21 and in my senior year studying Computer Science and a Mobile Software Eng
 - See other places where I am usually active
 
  - 💻 My PlayStore Apps can be viewed [here](https://play.google.com/store/apps/developer?id=Nikkhil+Singh)
- - 🔭 My website [www.nikhil.eu](nikhil.eu)
+ - 🔭 My website [www.nikhil.eu](https://www.nikhil.eu/)
  - 🧑‍My [Lindedin](https://www.linkedin.com/in/nikhil-singh7/)
  - ⚡ My Instagram (https://www.instagram.com/nikcodes/)
  
