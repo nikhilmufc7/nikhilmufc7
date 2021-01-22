@@ -5,7 +5,6 @@
 I'm 21 and in my senior year studying Computer Science and a Mobile Software Engineer at [Accucia](https://www.accucia.com/) in Pune, IN 🌆
 
 - 🔭 I’m currently working on Dart and Flutter to build complex mobile applications on a variety of domains.
-- ☕ I’m currently also leading the mobile dev team at [QuickFits](http://quickfits.app/) a LA based fashion startup.
 - 🧑‍💻 I’m looking to collaborate on open source projects
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
 - 😄 Pronouns: he/him/his
