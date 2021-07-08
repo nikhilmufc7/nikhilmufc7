@@ -2,13 +2,12 @@
 
 ![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=nikhilmufc7&show_icons=true)
 
-I am currently in my senior year studying Computer Science and a Mobile Software Engineer at [Accucia](https://www.accucia.com/) in Pune, IN 🌆
+I am currently in my senior year studying Computer Science and a Mobile Consultant at [ThoughtWorks](https://www.thoughtworks.com/) in Pune, IN 🌆
 
 - 🔭 I’m currently working on Dart and Flutter to build complex mobile applications on a variety of domains.
 - 🧑‍💻 I’m looking to collaborate on open source projects
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I still drink chocolate milk like I used to when i was a kid.
 
 - See other places where I am usually active
 
