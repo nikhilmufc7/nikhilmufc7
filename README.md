@@ -2,7 +2,7 @@
 
 ![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=nikhilmufc7&show_icons=true)
 
-I am a Mobile Consultant at [ThoughtWorks](https://www.thoughtworks.com/) and current hacking from Pune, IN 🌆
+I am a Mobile Consultant at [ThoughtWorks](https://www.thoughtworks.com/) and current building from Pune, IN 🌆
 
 - 🔭 I’m currently working on Dart and Flutter to build complex mobile applications on a variety of domains.
 - 🧑‍💻 I’m looking to collaborate on open source projects
