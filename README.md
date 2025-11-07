@@ -2,7 +2,7 @@
 
 ![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=nikhilmufc7&show_icons=true)
 
-I am a Mobile Consultant at [Yolo Group]([https://www.thoughtworks.com/](https://yolo.group/)) and current building from Tallinn, Estonia 🌆
+I am a Senior Mobile Engineer at [XYB](http://xyb.co/) and current building from Tallinn, Estonia 🌆
 
 - 🔭 I’m currently working on Swift, Swift UI, Dart, and Flutter to build complex mobile applications on a variety of domains.
 - 🧑‍💻 I’m looking to collaborate on open source projects
