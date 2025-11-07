@@ -4,7 +4,7 @@
 
 I am a Mobile Consultant at [Yolo Group]([https://www.thoughtworks.com/](https://yolo.group/)) and current building from Tallinn, Estonia 🌆
 
-- 🔭 I’m currently working on Swift, Swift UI, Dart, Swift UI, Swift and Flutter to build complex mobile applications on a variety of domains.
+- 🔭 I’m currently working on Swift, Swift UI, Dart, and Flutter to build complex mobile applications on a variety of domains.
 - 🧑‍💻 I’m looking to collaborate on open source projects
 - 😄 Pronouns: he/him/his
 
