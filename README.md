@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Senior Mobile Engineer at [XYB](http://xyb.co/) and current based in Tallinn, Estonia 🌆
+I am a Senior Mobile Engineer at [XYB](http://xyb.co/) and currently based in Tallinn, Estonia 🌆
 
 - 🔭 I’m currently working on Swift, Swift UI, Dart, and Flutter to build complex mobile applications on a variety of domains.
 - 🧑‍💻 I’m looking to collaborate on open source projects
